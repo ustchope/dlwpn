@@ -1,5 +1,7 @@
 对"Deep Learning with Python"第二版进行翻译，现在是最初步。458743670@qq.com
 
+Aug 10, 2020 第一稿完成
+
 # Companion Jupyter notebooks for the book "Deep Learning with Python"
 
 This repository contains Jupyter notebooks implementing the code samples found in the book [Deep Learning with Python, 2nd Edition (Manning Publications)](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras&a_bid=76564dff).
